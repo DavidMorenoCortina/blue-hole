@@ -42,7 +42,7 @@
         "david-moreno-cortina/dependency-container": "v1.0",
         "david-moreno-cortina/jwt": "v1.1",
         "david-moreno-cortina/router": "v1.2",
-        "david-moreno-cortina/blue-orm": "v1.1",
+        "david-moreno-cortina/blue-orm": "v1.2",
         "david-moreno-cortina/input-validation": "v1.0"
     },
     "autoload": {
