@@ -59,6 +59,7 @@ class App {
                 /** @var BaseController $controller */
                 $controller = new $className($this->container);
                 $controller->setParams($route->getParams());
+                $controller->setUserId($route->getUserId());
                 /** @var Response $response */
                 $response = $controller->$action();
 
